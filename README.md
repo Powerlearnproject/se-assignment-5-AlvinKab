@@ -97,12 +97,14 @@ Advantages of the integrated terminal over an external one include:
 ## 7. File and Folder Management
 **Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?**
 
-<video controls src="Welcome - Visual Studio Code 2024-06-08 00-46-18.mp4" title="How to create, open, and manage files and folders in VS Code" width="1280" height="720" autoplay></video>" 
+<video controls src="Welcome - Visual Studio Code 2024-06-08 00-46-18.mp4" title="How to create, open, and manage files and folders in VS Code" width="1280" height="720" autoplay></video>
+See video titled "Welcome"
 
 ## 8. Settings and Preferences
 **Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.**
 
 <video controls src="cat2.c - structures - Visual Studio Code 2024-06-08 00-54-22.mp4" title="Customizing settings in VS Code" width="1280" height="720" autoplay></video>
+See video titled "cat2"
 
 ## 9. Debugging in VS Code
 **Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?**
